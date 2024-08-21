@@ -46,9 +46,9 @@ I'm a versatile IT professional and software engineer with extensive experience 
 
 ### DNS & Networking
 
-- **Redundant Filtering DNS**: Implemented a failover system using a VIP for high availability.
+- **Redundant Filtering DNS**: Implemented a failover system using a VIP for high availability internal DNS.
 - **PowerDNS Automation**: Developed Master/Slave automation and a Python API client.
-- **DNS Infrastructure**: Automated machine creation and configuration using Ansible and Docker.
+- **DNS Infrastructure**: Automated machine creation with Terraform and configuration using Ansible and Docker.
 - **API Clients**: Created Python clients for OPNSense, pfSense, and GitLab APIs.
 - **VPN Solutions**: Set up Site-to-Site and Remote Access VPNs using Wireguard.
 - **Wireless Networking**: Established a PtP 60Ghz wireless link for site-to-site back-haul.
@@ -66,6 +66,15 @@ I'm a versatile IT professional and software engineer with extensive experience 
 - **Container Registry**: Hosted and managed a Docker container registry.
 - **Package Repository**: Implemented a PyPI package repository.
 - **Build Automation**: Developed pipelines for Docker images, Python packages, and C++ source code.
+
+### Server Hardware
+
+- **Cluster Design & Management**: Architected and managed a high-performance 2U server cluster consisting of 10 Dell servers, ensuring optimized rack placement and efficient resource allocation.
+- **Proactive Maintenance**: Executed detailed diagnostics and repairs, including memory replacements, PCI card upgrades, and disk replacements, to maintain optimal server performance and uptime.
+- **UPS Engineering**: Designed and rebuilt custom UPS battery packs, enabling up to 8 hours of power autonomy for the cluster, ensuring uninterrupted operation during power outages.
+- **High-Speed Networking**: Deployed and configured 40GbE and 25GbE fiber switches and routers, with precise physical installation and meticulous cable management for maximum throughput and minimal latency.
+- **Redundant Infrastructure**: Engineered the entire network and server infrastructure with a focus on redundancy, incorporating failover mechanisms to ensure continuous operation in the event of hardware failures.
+
 
 ### Data Processing & Management
 
