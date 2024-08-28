@@ -47,7 +47,7 @@ I'm a versatile IT professional and software engineer with extensive experience 
 ### DNS & Networking
 
 - **Redundant Filtering DNS**: Implemented a failover system using a VIP for high availability internal DNS.
-- **PowerDNS Automation**: Developed Master/Slave automation and a Python API client.
+- **PowerDNS Automation**: Developed Master/Slave automation and a [Python API client](https://github.com/devinbarry/python-powerdns).
 - **DNS Infrastructure**: Automated machine creation with Terraform and configuration using Ansible and Docker.
 - **API Clients**: Created Python clients for OPNSense, pfSense, and GitLab APIs.
 - **VPN Solutions**: Set up Site-to-Site and Remote Access VPNs using Wireguard.
@@ -63,6 +63,7 @@ I'm a versatile IT professional and software engineer with extensive experience 
 ### Development & CI/CD
 
 - **GitLab Environment**: Set up and maintained GitLab with CI/CD pipelines.
+- **Build Servers**: Management of build servers including security patching.
 - **Container Registry**: Hosted and managed a Docker container registry.
 - **Package Repository**: Implemented a PyPI package repository.
 - **Build Automation**: Developed pipelines for Docker images, Python packages, and C++ source code.
