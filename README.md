@@ -59,6 +59,7 @@ I'm a versatile IT professional and software engineer with extensive experience 
 - **ESP32 Fan Controllers**: Developed controllers with temperature and humidity sensors for AC automation.
 - **Environmental Monitoring**: Created alerts and a dashboard for server room temperature monitoring.
 - **Hardware Repair**: Successfully repaired UPS boards and air-conditioner compressor start capacitors.
+- **Real Time Alerts**: Automated text message and voice call alerting using ClickSend API.
 
 ### Development & CI/CD
 
@@ -91,3 +92,4 @@ I'm a versatile IT professional and software engineer with extensive experience 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/pythonista/)
+- [Github](https://github.com/devinbarry)
