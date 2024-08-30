@@ -78,11 +78,11 @@ I'm a versatile IT professional and software engineer with extensive experience 
 - **Redundant Infrastructure**: Engineered the entire network and server infrastructure with a focus on redundancy, incorporating failover mechanisms to ensure continuous operation in the event of hardware failures.
 
 
-### Data Processing & Management
+### Data Engineering
 
 - **MongoDB Cluster**: Set up a 3-node MongoDB replica set for API data storage.
 - **Data Pipeline**: Wrote Python scripts for processing and importing API data into MongoDB.
-- **Automation Platform**: Developed a system using Prefect for regular data fetching and updating.
+- **Automation Platform**: Task scheduling and execution using [Prefect](https://www.prefect.io/) and Python (Similar to Apache Airflow).
 - **Database Migration**: Transferred data from MongoDB Atlas to an on-site replica set for improved cost-efficiency and reliability.
 
 ### Security Enhancements
