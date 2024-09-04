@@ -49,7 +49,7 @@ I'm a versatile IT professional and software engineer with extensive experience 
 - **Redundant Filtering DNS**: Implemented a failover system using a VIP for high availability internal DNS.
 - **PowerDNS Automation**: Developed Master/Slave automation and a [Python API client](https://github.com/devinbarry/python-powerdns).
 - **DNS Infrastructure**: Automated machine creation with Terraform and configuration using Ansible and Docker.
-- **API Clients**: Created Python clients for OPNSense, pfSense, and GitLab APIs.
+- **API Clients**: Created Python clients for OPNSense, [pfSense](https://github.com/devinbarry/pyfsense-client), and GitLab APIs.
 - **VPN Solutions**: Set up Site-to-Site and Remote Access VPNs using Wireguard.
 - **Wireless Networking**: Established a PtP 60Ghz wireless link for site-to-site back-haul.
 - **OSPF Implementation**: Eliminated static routes in multi-site router setups.
