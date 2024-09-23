@@ -56,6 +56,7 @@ I'm a versatile IT professional and software engineer with extensive experience 
 
 ### IoT & Electronics
 
+- **Node Red**: IOT systems automation pipeline using Javascript and Node-Red.
 - **ESP32 Fan Controllers**: Developed controllers with temperature and humidity sensors for AC automation.
 - **Environmental Monitoring**: Created alerts and a dashboard for server room temperature monitoring.
 - **Hardware Repair**: Successfully repaired UPS boards and air-conditioner compressor start capacitors.
