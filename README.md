@@ -35,6 +35,11 @@ I'm a versatile IT professional and software engineer with extensive experience 
 
 ## Projects
 
+### LLM Tools
+
+- [**crev**](https://github.com/devinbarry/crev): A command line tool for uploading code to LLMs such as 01-preview and others, written in Go
+- **llm-diff**: A tool for quickly showing what code the LLM has changed. Allowing quick decision-making when editing with LLMs.
+
 ### Software Development
 
 - **Financial Data Retrieval and Processing**: Founded and led The Lab, implementing secure and efficient data management solutions using AWS technologies, including DynamoDB and S3.
